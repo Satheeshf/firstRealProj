@@ -1,10 +1,10 @@
 import React from 'react'
 import "./Program.css"
-import program_1 from "../../assets/emotional.jpg"
-import program_2 from "../../assets/physical developmwnt.jpg"
-import program_3 from "../../assets/intellectural.jpg"
-import program_4 from "../../assets/moral3.jpg"
-import program_6 from "../../assets/social.jpg"
+import program_1 from "../../assets/WhatsAppImage2.jpg"
+import program_2 from "../../assets/WhatsAppImage3.jpg"
+import program_3 from "../../assets/WhatsAppImage4.jpg"
+import program_4 from "../../assets/WhatsAppImage1.jpg"
+import program_6 from "../../assets/WhatsAppImage5.jpg"
 
 import program_icon_1 from "../../assets/program-icon-1.png"
 import program_icon_2 from "../../assets/program-icon-2.png"
