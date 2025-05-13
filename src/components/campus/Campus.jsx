@@ -28,12 +28,21 @@ import user_17 from '../../assets/photo17.jpg';
 import user_18 from '../../assets/photo18.jpg';
 import user_19 from '../../assets/photo19.jpg';
 import user_20 from '../../assets/photo20.jpg';
+import user_21 from '../../assets/photo21.jpg';
+import user_22 from '../../assets/photo22.jpg';
+import user_23 from '../../assets/photo23.jpg';
+import user_24 from '../../assets/photo24.jpg';
+import user_25 from '../../assets/photo25.jpg';
+import user_26 from '../../assets/photo26.jpg';
+import user_27 from '../../assets/photo27.jpg';
+import user_28 from '../../assets/photo28.jpg';
 
 const Campus = () => {
   const sliderRef = useRef(null);
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = [user_1, user_2, user_3, user_4, user_5, user_6, user_7, user_8, user_9, 
-    user_10, user_11, user_12, user_13, user_14, user_15, user_16, user_17, user_18, user_19, user_20
+    user_10, user_11, user_12, user_13, user_14, user_15, user_16, user_17, user_18, user_19, user_20, user_21,
+    user_22, user_23, user_24, user_25, user_26, user_27, user_28
   ];
 
   // Auto-advance slides every 10 seconds
